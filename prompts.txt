@@ -1,0 +1,9 @@
+1. Crea una versión inicial de una pagina presentando un nuevo teléfono en html. La versión inicial debe tener lo basico: nombre del producto, una breve descripción, una estructura basica del sitio y con una sección destacada (que sea la presentación del producto)
+
+2.
+
+3.
+
+4.
+
+5.
