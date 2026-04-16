@@ -1,8 +1,8 @@
 1. Crea una versión inicial de una pagina presentando un nuevo teléfono en html. La versión inicial debe tener lo basico: nombre del producto, una breve descripción, una estructura basica del sitio y con una sección destacada (que sea la presentación del producto)
 
-2.
+2. La página esta bien, cumple con lo básico, pero estaría necesitando una mejor presentación. Añade una mejora al diseño visual aplicando estilos más trabajados y mejores colores, mejor distribución del contenido para lograr una apariencia más atractiva y moderna al sitio, utilizando el archivo style.css
 
-3.
+3. Me gusta, pero algo que le estaría faltando a la página sería una mejor explicación y presentación del producto para los usuarios. Además de las caracteristicas principales, puedes agregar cuales son los beneficios del producto, sus especificaciones tecnicas, los posibles usos o ventajas frente a otros productos, junto con una imagen mostrando el telefono. Manteniendo el diseño y colores de la página
 
 4.
 
