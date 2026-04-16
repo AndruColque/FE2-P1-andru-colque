@@ -65,6 +65,17 @@ ul li {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+figure {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
 footer {
     background: #2E7D32;
     color: white;
@@ -79,4 +90,75 @@ footer {
 footer p {
     margin: 0;
     font-size: 0.9rem;
+}
+
+/* Adaptación para dispositivos móviles */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .highlight {
+        padding: 1.5rem;
+    }
+
+    .highlight h2 {
+        font-size: 1.8rem;
+    }
+
+    .highlight p {
+        font-size: 1rem;
+    }
+
+    section h3 {
+        font-size: 1.3rem;
+    }
+
+    ul li {
+        font-size: 0.9rem;
+        padding: 0.6rem;
+    }
+
+    figure img {
+        max-width: 90%;
+    }
+
+    footer p {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    .highlight {
+        padding: 1rem;
+    }
+
+    .highlight h2 {
+        font-size: 1.5rem;
+    }
+
+    .highlight p {
+        font-size: 0.9rem;
+    }
+
+    section h3 {
+        font-size: 1.2rem;
+    }
+
+    ul li {
+        font-size: 0.8rem;
+        padding: 0.5rem;
+    }
+
+    figure img {
+        max-width: 100%;
+    }
+
+    footer p {
+        font-size: 0.7rem;
+    }
 }

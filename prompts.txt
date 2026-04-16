@@ -4,6 +4,6 @@
 
 3. Me gusta, pero algo que le estaría faltando a la página sería una mejor explicación y presentación del producto para los usuarios. Además de las caracteristicas principales, puedes agregar cuales son los beneficios del producto, sus especificaciones tecnicas, los posibles usos o ventajas frente a otros productos, junto con una imagen mostrando el telefono. Manteniendo el diseño y colores de la página
 
-4.
+4. Faltaría algo importante, adaptación a diferentes dispositivos, necesito que hagas que el sitio web se pueda adaptar a dispositivos moviles asegurando una buena legibilidad, diseños bien adaptados y que evite problemas de distribución o superposición
 
 5.
